@@ -1,0 +1,257 @@
+[33mcommit c49d8a9139eea629856bb58679400ffa29080eb8[m
+Author: =mayank <=mayank.trp48@gmail.com>
+Date:   Sun Oct 16 03:01:19 2016 +0530
+
+    first
+
+[33mcommit 0df33271155007b638aead9afbbe914f4067b368[m
+Author: Vineet Garg <grg.vineet@gmail.com>
+Date:   Tue Oct 4 23:05:58 2016 +0530
+
+    Update read me
+    
+    Added payment model
+    Added TODOs
+
+[33mcommit 3338cdb287a2579dbd95937f8933390d60ebd999[m
+Author: Anurag Sidana <anuragsidana22@gmail.com>
+Date:   Tue Oct 4 20:08:26 2016 +0530
+
+    validate all details of a user before login  in LoginActivity.java
+
+[33mcommit ca458e0e6e0d7ec31a7d7639e67be8b0e0e49374[m
+Author: Pulkit <pulkitkumar190@gmail.com>
+Date:   Tue Oct 4 17:51:43 2016 +0530
+
+    Cleaned and removed hardcoded values (#2)
+
+[33mcommit f7516794b370c60d40486d2e3aba353bc42e61cf[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Mon Oct 3 23:53:48 2016 +0530
+
+    Remove hardcoded values
+
+[33mcommit d500d9a0051abd1a2506eada7df436449c2a6175[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Mon Oct 3 23:52:24 2016 +0530
+
+    Finish quiz if someone presses home button
+
+[33mcommit 100acf887ac42bf059ea0f7d77c58b1b0dedc2ca[m
+Author: Harshit Dwivedi <harshithdwivedi@gmail.com>
+Date:   Mon Oct 3 23:39:02 2016 +0530
+
+    Create LICENSE.md
+
+[33mcommit 28e9d1e36e26594c45ba1b7be08c82f248852905[m
+Author: Harshit Dwivedi <harshithdwivedi@gmail.com>
+Date:   Mon Oct 3 21:07:50 2016 +0530
+
+    Add links for contributors
+
+[33mcommit ccfabbc83f6b0deeff37ac81956134dacac136ed[m
+Author: Harshit Dwivedi <harshithdwivedi@gmail.com>
+Date:   Mon Oct 3 21:04:40 2016 +0530
+
+    Add contributors
+
+[33mcommit 4e9c56c909625fb080a4768882d9f47668bb3a41[m
+Author: Harshit Dwivedi <harshithdwivedi@gmail.com>
+Date:   Mon Oct 3 21:03:48 2016 +0530
+
+    Create README.md
+
+[33mcommit 4cd99dd4ea61ed08eabec202607d9f265a89c4dc[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Sun Oct 2 17:35:33 2016 +0530
+
+    Make alert dialog not cancellable
+
+[33mcommit a91acab1dc4995df64b71fc4dd8431aeae6a964b[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 17:28:02 2016 +0530
+
+    Reduce duplicacy of Questions
+
+[33mcommit a8aa0ab7ec873fb7b5f3628c29128916ac88bf14[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Sun Oct 2 17:21:12 2016 +0530
+
+    Made OTP visible
+    Show progress dialog in request payment
+
+[33mcommit ea95ad842078e179b6bd2e0c8600dc37fcc29d9a[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 17:05:41 2016 +0530
+
+    Update questions
+
+[33mcommit 9ca21f6630937278e47d4f7b87241597a28a87af[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Sun Oct 2 16:57:07 2016 +0530
+
+    Dirty hack for both parent and child login
+
+[33mcommit 8ac0b4e924788edf8585682b431e72c813a2e824[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Sun Oct 2 16:27:38 2016 +0530
+
+    Implement payment transfer
+
+[33mcommit d78a0e00e99e9f76101a593078b56a81d2589cc8[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 15:57:57 2016 +0530
+
+    Added option to transfer money on results
+
+[33mcommit 8f26c9c9d55eb0e6fcc9250b6b00fb70ed2a894c[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Sun Oct 2 15:48:38 2016 +0530
+
+    Added real wallet amount
+
+[33mcommit 4456bd1f0b22c520dee16ea57ecd008e8ecee5eb[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 15:36:44 2016 +0530
+
+    Add quiz.java
+
+[33mcommit b6180c1f11e67b441851aaf210b8d618a09ce59d[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 15:35:43 2016 +0530
+
+    Redesign wallet
+
+[33mcommit 84af6f3dbe0de0e5bd5998b389f6f3553d2b0362[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Sun Oct 2 15:32:24 2016 +0530
+
+    Fixed correct questions count
+
+[33mcommit 2be68ecbe4f49ec312dc0a66b9d41e292e8909dc[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Sun Oct 2 15:08:56 2016 +0530
+
+    Hardcoded values in login
+
+[33mcommit 58c87a3ff56a68b0e710ba43ae024e21dff64335[m
+Merge: c59a721 2abfc0c
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 15:08:03 2016 +0530
+
+    Fix conflicts
+
+[33mcommit c59a721c8b19c09ab550c7a84ba6c0fd2d6ff556[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 15:06:06 2016 +0530
+
+    Create wallet
+
+[33mcommit 63415981e279fcd9fb3b2866d9af6ada88c2ca04[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 15:05:56 2016 +0530
+
+    Create wallet
+
+[33mcommit 2abfc0c093a45c5bc1e69e4a2411042278824693[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Sun Oct 2 14:49:51 2016 +0530
+
+    Added logout
+
+[33mcommit 659eab3d09f55ea13e34132ab8031ab5e6868441[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 14:27:31 2016 +0530
+
+    Add toolbar icons and wallet activity
+
+[33mcommit 805e78c678ee274d4bf4aace66e36e2f30edb27e[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Sun Oct 2 14:25:27 2016 +0530
+
+    Added login using paytm
+
+[33mcommit 486c9a8c59d2c4046ca4b61e4d762285c31ac710[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 14:07:49 2016 +0530
+
+    feat : Add pricing indicator
+
+[33mcommit a65e327b4ce57b183ac6b7adf171fdf2cc6807ff[m
+Merge: 018b924 d21c14d
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 12:46:59 2016 +0530
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit 018b924654675697e62a5a0ee5737c6c204a8384[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 12:46:18 2016 +0530
+
+    fix : Add missing images
+
+[33mcommit d21c14d828dcbe7d6ee6daaf692918bccaf8619d[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Sun Oct 2 12:36:51 2016 +0530
+
+    Modified paytm api
+
+[33mcommit 4f71539e7934b71b81fbdeb34887a826dba7cdd0[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 12:36:06 2016 +0530
+
+    feat : add quizActivity and bunch of other stuff
+
+[33mcommit 0ee6e3870e7bc55aeffa330855c22e87a1e0a752[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Sun Oct 2 04:11:24 2016 +0530
+
+    Added Paytm P2P interface with a test activity
+
+[33mcommit 8c226c03b7f33502ae0cd44c9754b2a7ad372cec[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sun Oct 2 02:05:55 2016 +0530
+
+    feat : Add category section
+
+[33mcommit 6fe9257f186b0bcf7fb0d9504441d99e753f6479[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sat Oct 1 22:52:42 2016 +0530
+
+    feat : Add and parse json for quiz
+
+[33mcommit 5d13b13fec3a6bcedfe7f10189179c3b205dc493[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sat Oct 1 19:41:34 2016 +0530
+
+    Add module Activity
+
+[33mcommit 9cdddea6b6f6f69c55d7e5bb329a44b9eb5856f0[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sat Oct 1 19:39:01 2016 +0530
+
+    Add layout files
+
+[33mcommit 06c1ac0fc79cb24ab80b628f8a40f21da4458147[m
+Author: Vineet Garg <grgvineet@gmail.com>
+Date:   Sat Oct 1 19:37:11 2016 +0530
+
+    Added Question Answer Classes
+
+[33mcommit 7090511e6b468e9b1827b7d7b85bef9055bc16b7[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sat Oct 1 17:18:09 2016 +0530
+
+    Add intent to navigate to modules page
+
+[33mcommit 309e750a2183786556eaaa69c075bc75a7577299[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sat Oct 1 17:08:12 2016 +0530
+
+    Add subppackages
+
+[33mcommit 3aba2d40252cbe8b18bbaaa2a8db5e6251b805aa[m
+Author: the-dagger <harshithdwivedi@gmail.com>
+Date:   Sat Oct 1 16:58:37 2016 +0530
+
+    Initial commit
