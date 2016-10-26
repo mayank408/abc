@@ -32,6 +32,17 @@
         "answer": "Texas"
       },
       {
+        "type": "single-select",
+        "question": "If log 27 = 1.431, then the value of log 9 is?",
+        "options": [
+          "0.934",
+          "0.945",
+          "0.958",
+          "0.954"
+        ],
+        "answer": 4
+      },
+      {
         "type": "four-quarter",
         "question": "What is the correct name for a cluster or bunch of bananas?",
         "options": [
