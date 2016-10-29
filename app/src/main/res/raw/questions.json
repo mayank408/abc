@@ -52,9 +52,21 @@
           "Pod"
         ],
         "answer": 1
+      },
+      {
+        "type": "four-quarter",
+        "question": "#include<stdio.h> gets replaced by the contents of the file stdio.h",
+        "options": [
+          "During editing",
+         	"During linking",
+        	"During execution",
+       "	During preprocessing"
+        ],
+        "answer": 4
       }
     ],
     "scores": [
+      0,
       0,
       0,
       0,
