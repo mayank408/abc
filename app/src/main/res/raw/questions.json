@@ -43,6 +43,17 @@
         "answer": "Texas"
       },
       {
+        "type": "single-select",
+        "question": "If log 27 = 1.431, then the value of log 9 is?",
+        "options": [
+          "0.934",
+          "0.945",
+          "0.958",
+          "0.954"
+        ],
+        "answer": 4
+      },
+      {
         "type": "four-quarter",
         "question": "What is the correct name for a cluster or bunch of bananas?",
         "options": [
@@ -67,6 +78,136 @@
     ],
     "scores": [
       0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "solved": "false"
+  },
+  {
+    "name": "Computer",
+    "id": "knowledge",
+    "theme": "pink",
+    "quizzes": [
+      {
+        "type": "fill-blank",
+        "question": "What is the size of ‘int’?",
+        "answer": "Compiler dependent"
+      },
+      {
+        "type": "four-quarter",
+        "question": "In DOS, how many bytes exist for near, far and huge pointers?",
+        "options": [
+           "Near: 2, far: 4, huge: 7",
+           
+		   "near: 4, far: 2, huge: 8",
+
+           "near: 2, far: 4, huge: 4",
+
+           "near: 4, far: 0, huge: 0"
+        ],
+        "answer": "3"
+      },
+      {
+        "type": "multi-select",
+        "question": "Select the names of “The Three Musketeers”.",
+        "options": [
+          "Chevy",
+          "Topeka",
+          "Athos",
+          "Duke",
+          "Porthos",
+          "John Felton",
+          "Aramis"
+        ],
+        "answer": [
+          2,
+          4,
+          6
+        ]
+      },
+      {
+        "type": "toggle-translate",
+        "question": "Which is the correct translation of Zorro?",
+        "options": [
+          [
+            "Zorro",
+            "Dog"
+          ],
+          [
+            "Zorro",
+            "Sword"
+          ],
+          [
+            "Zorro",
+            "Fox"
+          ],
+          [
+            "Zorro",
+            "Coyote"
+          ]
+        ],
+        "answer": 2
+      },
+      {
+        "type": "single-select",
+        "question": "If a 5,000 coupon bond has a coupon rate of 13 percent, then the coupon payment every year is ___",
+        "options": [
+          "650",
+          "1,300",
+          "None of These",
+          "130"
+        ],
+        "answer": 0
+      },
+      {
+        "type": "picker",
+        "question": "How many counters does a backgammon player have?",
+        "min": 0,
+        "max": 30,
+        "answer": 15
+      },
+      {
+        "type": "true-false",
+        "question": "There is a patron saint of The Internet.",
+        "answer": true
+      },
+      {
+        "type": "alpha-picker",
+        "question": " Which letter other than X scores 8 in Scrabble?",
+        "answer": "J"
+      },
+      {
+        "type": "four-quarter",
+        "question": "Four of the worst ten maritime disasters all took place in 1945. In which sea were all four ships sunk?",
+        "options": [
+          "Mediterranean sea",
+          "Baltic Sea",
+          "The Bermuda Triangle",
+          "Black Sea"
+        ],
+        "answer": 1
+      },
+      {
+        "type": "single-select",
+        "question": "The average of first 50 natural numbers is ",
+        "options": [
+          "25.30",
+          "25.50",
+          "25.00",
+          "12.25"
+        ],
+        "answer": 1
+      }
+    ],
+    "scores": [
       0,
       0,
       0,
